@@ -1,4 +1,4 @@
-Dragons Launcher (GreenDragonMCstudio / Nexus Engineering)
+# DragonsLauncher (GreenDragonMCstudio / Nexus Engineering)
 
 
 Mods 
@@ -31,4 +31,4 @@ Neon giratorio, Bedrock y Dragons Plus
 Neon: una luz recorre el borde de la ventana y de la tarjeta «Continuar jugando» (AJUSTES > EFECTOS: completos = animado, suaves = fijo, apagados = nada). BEDROCK (menu lateral): solo con cuenta premium (Microsoft). Detecta Minecraft para Windows (Microsoft Store), la abre, entra directo a un servidor (minecraft://connect), abre carpetas de mundos/packs, importa .mcworld/.mcpack/.mcaddon y hace copias de seguridad de los mundos. NO la descarga ni la modifica. DRAGONS PLUS (★ en la barra superior): suscripcion con ventajas (sin patrocinadores, neon con tu color y arcoiris, insignia). 
 Compartir e importar instancias
 INSTANCIAS: boton ⇪ en cada tarjeta (Compartir) y IMPORTAR arriba. Formas: CODIGO (DRAGONS1:..., texto para pegar), ENLACE (se sube la receta a paste.rs, gratis y sin cuenta; cualquiera con el enlace la ve y puede caducar), ZIP LIGERO (receta + config + solo los archivos sin enlace) y ZIP COMPLETO (con todos los archivos de mods; ojo con las licencias). Al importar se crea una instancia nueva y se bajan los mods de Modrinth/CurseForge. Los que su autor solo deja bajar desde CurseForge salen en una lista con boton ABRIR PAGINA y YA LO TENGO. Todo lo que llega de fuera se valida (nombres de archivo, ids, loader, rutas del ZIP) y los enlaces solo se aceptan de paste.rs, dpaste.org y GitHub.
-# DragonsLauncher
+
